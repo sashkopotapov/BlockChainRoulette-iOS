@@ -16,7 +16,7 @@ Project uses * [Alamofire](https://github.com/Alamofire/Alamofire) for networkin
 pod install
 ```
 ### Demo
-For demo purposes there is a roulette animation 
+Roulette animation 
 
 ![Alt Text](https://media.giphy.com/media/J4DjUVGWK9tAqGMz2N/giphy.gif)
 
